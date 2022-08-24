@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sport Analytics on Max Dekker</title>
+    <link>https://maxrekked.github.io/tags/sport-analytics/</link>
+    <description>Recent content in Sport Analytics on Max Dekker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maxrekked.github.io/tags/sport-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post</title>
+      <link>https://maxrekked.github.io/blog/2022-08-24-first-blog-post/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxrekked.github.io/blog/2022-08-24-first-blog-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
